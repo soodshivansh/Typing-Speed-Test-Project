@@ -28,7 +28,7 @@ def start():
     top = Toplevel()
     top.geometry('600x400')
     top.minsize(width=300,height=200)
-    top.title('LETS START THE TEST')
+    top.title('LET START THE TEST')
     top.iconbitmap("new.ico")
     
     
